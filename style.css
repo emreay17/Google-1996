@@ -1,0 +1,41 @@
+#img {
+    text-align: center;
+    margin: auto;
+    
+
+}
+#middle {
+    background-color:rgb(238, 238, 238);
+    text-align: center;
+}
+#main {
+   text-align: center;
+   align-items: center;
+   position: relative;
+   margin-top: 300px;
+}
+#search{
+    padding:0;
+}
+.button {
+    border-radius:5px;
+    margin-top: 4px;
+}
+#input{
+    height:25px;
+}
+#alt1{
+    background-color:rgb(126, 229, 218);
+    border:2px white solid;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+#alt2{
+    background-color:rgb(112, 204, 194);
+    border:2px white solid
+}
+#alt3{
+    background-color:rgb(98, 179, 170);
+    border:2px white solid
+}
